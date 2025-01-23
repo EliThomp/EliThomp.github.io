@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Typescript Newbie Thoughts"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-04
+date: 2025-01-23
 published: true
 labels:
   - Software Engineering

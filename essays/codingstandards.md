@@ -4,7 +4,7 @@ type: essay
 title: "Chaos to Clarity: Coding with Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-25
-published: true
+published: false
 labels:
   - Software Engineering
   - Reflection
@@ -14,7 +14,7 @@ labels:
 
 <center> <img width="500" height="500" class="img-fluid" src="../img/codingstandards1.jpg"> </center>
 
-  In life, structure and organization are key to maintaining consistency and focus. Whether it’s following a routine like keeping your workspace tidy, having structured habits makes it easier to spot mistakes that might otherwise go unnoticed. These practices of organization and discipline go beyong just everyday life, it also relates to coding and Software Engineering. Much like how structured habits help you manage your day-to-day activities, maintaining proper coding standards makes it easier to navigate your code and identify issues. The clearer your structure, the more effectively you can work. By having clean code you are able to troubleshoot an issue or pick up where you left off after some time away with ease.
+  In life, structure and organization are key to maintaining consistency and focus. Whether it’s following a routine like keeping your workspace tidy, having structured habits makes it easier to spot mistakes that might otherwise go unnoticed. These practices of organization and discipline go beyond just everyday life, it also relates to coding and Software Engineering. Much like how structured habits help you manage your day-to-day activities, maintaining proper coding standards makes it easier to navigate your code and identify issues. The clearer your structure, the more effectively you can work. By having clean code you are able to troubleshoot an issue or pick up where you left off after some time away with ease.
 
 <h2>First Thoughts</h2>
 

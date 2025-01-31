@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Smart Questions, Smart Answers"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-11
+date: 2025-01-30
 published: true
 labels:
   - Software Engineering

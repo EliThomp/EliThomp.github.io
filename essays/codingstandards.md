@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "Chaos to Clarity: Coding with Standards"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-25
-published: false
+date: 2025-02-14
+published: true
 labels:
   - Software Engineering
   - Reflection

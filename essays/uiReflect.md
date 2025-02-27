@@ -30,11 +30,11 @@ labels:
 
 <h2>Why Not Just Use Raw HTML and CSS?</h2>
 
-<center> <img width="500" height="500" class="img-fluid" src="../img/smartqs2.png"> </center>
-
   Some may argue that using plain HTML and CSS gives developers more control over their designs and eliminates dependency on third-party libraries. While this is true, it also means reinventing the wheel for every project. Writing custom styles for buttons, forms, and grids every time is inefficient. Furthermore, maintaining a large codebase without a structured framework can lead to technical debt, where updates become increasingly difficult to manage.
 
-<h2>Why Not Just Use Raw HTML and CSS?</h2>
+<h2>Personal Experience with Bootstrap 5</h2>
+
+<center> <img width="500" height="500" class="img-fluid" src="../img/uiReflect(1).jpg"> </center>
 
 As someone who was initially accustomed to using raw HTML and CSS to structure websites, my first experience with Bootstrap 5 was frustrating. The predefined classes and grid system required me to rethink how I structured elements like lists, navigation bars, and columns. At first, it was annoying to have to learn new ways to achieve what I was used to doing manually. However, as I spent more time with Bootstrap, I realized its advantages. The framework significantly sped up the development process, allowing me to create visually appealing, responsive layouts with minimal effort. Over time, the frustration faded, and I began to appreciate the efficiency and scalability it offered. While there was a learning curve, the benefits ultimately outweighed the initial challenges, making Bootstrap a valuable tool in my development toolkit.
 

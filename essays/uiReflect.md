@@ -12,7 +12,7 @@ labels:
 ---
 <h2>The Value of UI Frameworks: Efficiency, Consistency, and Maintainability</h2>
 
-<center> <img width="500" height="500" class="img-fluid" src="../img/smartqs1.jpg"> </center>
+<center> <img width="500" height="500" class="img-fluid" src="../img/bootstrap-logo.png"> </center>
 
  User Interface (UI) frameworks are an essential component of modern web development. While they can be complex to learn and implement, the benefits they offer make them a worthwhile investment for developers and organizations alike. Instead of building an interface from scratch with raw HTML and CSS, UI frameworks like Bootstrap 5, Tailwind CSS, and Semantic UI provide pre-built components and design conventions that significantly enhance the development process. This essay explores why UI frameworks are advantageous despite their learning curve, highlighting their efficiency, consistency, and maintainability while comparing Bootstrap 5 with other frameworks.
 

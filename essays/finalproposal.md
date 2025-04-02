@@ -7,14 +7,11 @@ labels:
   - Software Engineering
   - Nextjs
 ---
- <h1>TalkStory Proposal Idea</h1>
-
-  <h2>Overview</h2>
   <p><strong>List of Proposers:</strong> Gordon Chun, Elias Thompson, Ethan Ibanez, Shaylon Mizukami</p>
 
   <h2>The Problem</h2>
-  <p>Over a third of all students at UH come from out of state, and adjusting to life on a new island can be challenging. Visitors and newcomers often struggle to find practical, everyday solutions to local problems—like where to park near popular beaches, how to avoid traffic bottlenecks, or where to get affordable, ono (delicious) food. The lack of a centralized, community-driven resource makes it difficult to access this kind of insider knowledge.</p>
-  <p>At the same time, many local residents and students offer small-scale services—such as haircuts, handcrafted jewelry, or photography—but have limited means to promote themselves to a wider audience. This creates a disconnect between those seeking help and those offering it. Our project aims to bridge that gap by building a platform where users can both share local tips and advertise their gigs, creating a space for connection, support, and community resource-sharing.</p>
+  <p>Over a third of all students at UH come from out of state, and adjusting to life on a new island can be challenging. Visitors and newcomers often struggle to find practical, everyday solutions to local problems—like where to park near popular beaches, how to avoid traffic, or where to get affordable, delicious food. The lack of community-driven resource makes it difficult to access this kind of insider knowledge.</p>
+  <p>At the same time, many local residents and students offer small-scale services—such as haircuts, handcrafted jewelry, or photography—but have limited ways to promote themselves to a wider audience. This creates a disconnect between those seeking help and those offering it. Our project aims to bridge that gap by building a website where users can both share local tips and advertise their gigs, creating a space for connection and support</p>
 
   <h2>The Solution</h2>
   <p>Our proposed solution is to create a community-driven website that serves as a digital hub for local tips and gig promotion. The platform will feature a forum-style layout where users can easily share and discover advice on navigating island life—whether it’s the best times to find parking in busy areas, hidden beach spots, or cheap eats around campus.</p>

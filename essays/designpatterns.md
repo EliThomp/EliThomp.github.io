@@ -16,7 +16,7 @@ labels:
 Imagine you're opening a bustling food court. Vendors from all over town are setting up shop: poke bowls, acai stands, plate lunch counters—you name it. Each vendor has different needs, different menus, and different ways of running things. If you tried to build each booth from scratch, one by one, your project would quickly spiral out of control.
 
 Instead, smart builders use *patterns*: strategies and recipes they can adjust depending on the vendor. Software development isn't much different. In coding my final project, Manoa Munchies, I realized that design patterns are the reusable recipes that keep a project organized, efficient, and adaptable as it grows.
-  <img src="images/marketplace.jpg" alt="People picking fresh vegetables at a local market" width="700" style="height: auto;" />
+<center>  <img src="../img/marketplace.jpg" alt="Busy Marketplace" width="700" style="height: auto;" /> </center>
 
 ## Flexibility Through the Strategy Pattern
 
@@ -33,6 +33,8 @@ Instead, we used functions that acted like factories: plug in the name, price, d
 Much like a bakery can use the same oven to make different kinds of bread, the Factory Pattern let us mass-produce menu items without reinventing the process every time.
 
 ## Lessons Learned From Using Design Patterns
+
+<center> <img src="../img/designpattern.png" alt="Design Patterns" style="max-width: 100%; height: auto;"> </center>
 
 Before Manoa Munchies, design patterns felt abstract, like something you only read about in textbooks. But once the project grew bigger, I saw how vital they really are. Without patterns like Strategy and Factory, the codebase would have been a cluttered mess, impossible to maintain or scale.
 

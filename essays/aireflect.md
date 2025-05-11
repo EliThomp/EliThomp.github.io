@@ -24,114 +24,113 @@ But AI wasn’t perfect. It hallucinated syntax sometimes or misunderstood conte
 
 ## Experience WODs
 
-During Bootstrap-based Experience WODs, I found myself stuck on spacing and alignment. I asked ChatGPT:  
-**“What does `mx-auto` and `px-3` do in Bootstrap?”**  
-It gave a helpful breakdown of margin and padding utilities, which made the layout click for me. That said, I still relied on my own testing to verify the results. AI helped with understanding, not with doing the work for me.
-
----
+I avoided using AI during live practice WODs to stay in the mindset of a real coding interview or timed challenge. However, afterward, I used ChatGPT to reinforce areas I struggled with. For example, after a grid layout challenge, I asked:
+“How do Bootstrap’s column breakpoints work for responsive layouts?”
+The response clarified how classes like col-sm-12 and col-md-6 adapt to different screen sizes, which helped solidify the way Bootstrap’s grid system works.
 
 ## In-class Practice WODs
 
-I chose not to use AI during practice WODs because I wanted to replicate a real technical interview setting. These sessions were about building mental endurance. That said, I sometimes used ChatGPT afterward to review something I struggled with—for example:  
-**“How do Bootstrap breakpoints work in column classes like `col-md-6`?”**  
-This post-WOD reflection helped reinforce what I was learning.
+I avoided using AI during live practice WODs to stay in the mindset of a real coding interview or timed challenge. However, afterward, I used ChatGPT to reinforce areas I struggled with. For example, after a grid layout challenge, I asked:
+“How do Bootstrap’s column breakpoints work for responsive layouts?”
+The response clarified how classes like col-sm-12 and col-md-6 adapt to different screen sizes, which helped solidify the way Bootstrap’s grid system works.
 
 ---
 
 ## In-class WODs
 
-In a React-based WOD involving forms, I noticed my form was refreshing the page. After the WOD, I asked ChatGPT:  
-**“How do I prevent a page from refreshing when I submit a form in React?”**  
-The answer—`event.preventDefault()`—seemed simple, but the context behind it helped deepen my understanding of how React handles form submissions differently than HTML.
+In one of the React WODs, I encountered an issue where submitting a form caused the page to reload, wiping out the input values. Afterward, I asked:
+“How do I prevent a page from refreshing when I submit a form in React?”
+ChatGPT pointed out the need for event.preventDefault() in the onSubmit handler. That small line fixed the problem and helped me better understand how React handles form behavior differently from plain HTML.
 
 ---
 
 ## Essays
 
-While working on my software ethics essay, I used AI to clarify and clean up my writing. I asked:  
-**“Can you simplify this paragraph and make it more clear?”**  
-ChatGPT helped me refine awkward sentences and improve flow, especially when organizing multi-part arguments. However, I always made sure that the content and ideas were fully my own.
+When working on my software engineering ethics essay, I wanted to improve readability and flow. I asked:
+“Can you simplify this paragraph and make it more clear?”
+ChatGPT didn’t generate my ideas, but it did help me polish sentence structure and transitions. It was like having a second pair of eyes—useful for editing without changing the core message.
+
+
 
 ---
 
 ## Final Project
 
-In our final web app, I ran into a number of layout and backend challenges. When trying out Tailwind CSS (for comparison), I asked:  
-**“How do I center a div using Tailwind CSS?”**  
-I also used ChatGPT for backend help:  
-**“How do I write a Prisma query to fetch related menu items for a vendor?”**  
-The AI’s examples helped me scaffold working code much faster. Still, I always validated its output against my schema.
+During our final project, I experimented with Tailwind CSS before sticking with Bootstrap. I asked:
+“How do I center a div inside another using Tailwind CSS?”
+That response helped me better understand flexbox-based layout systems. For our backend, I asked:
+“How do I write a Prisma query that includes a related table?”
+We needed to pull in menu items alongside vendor information. The AI showed me how to use include, and I adapted the code for our database schema. This saved time and made our dashboard logic more efficient.
 
 ---
 
 ## Learning a Concept / Tutorial
 
-When I was new to React, I asked:  
-**“What’s the difference between props and state in React with examples?”**  
-The explanation helped build a mental model that stuck with me. Unlike official docs, the AI broke it down in simple, intuitive language that made re-renders and component logic easier to follow.
+React’s concepts of props and state were tricky at first. I asked:
+“What’s the difference between props and state in React with examples?”
+The AI explained it in beginner-friendly language and provided a simple component example. That gave me the foundational understanding I needed to build dynamic components without confusion.
 
 ---
 
 ## Answering a Question in Class or in Discord
 
-Before answering a question about React lists in the class Discord, I wanted to make sure I understood the details. I asked ChatGPT:  
-**“Why are keys important when using `.map()` in React?”**  
-It confirmed my understanding and gave me the confidence to provide a clear, accurate answer to my classmate.
-
+Before answering a question in the class Discord about rendering lists in React, I double-checked my understanding by asking:
+“Why are keys important in React list rendering?”
+ChatGPT explained how keys help React track changes in arrays efficiently. This reinforced what I’d learned in class and helped me give a more confident, accurate answer.
 ---
 
 ## Asking or Answering a Smart-Question
 
-When trying to explain destructuring, I wanted to simplify it for others. I asked:  
-**“Explain destructuring in JavaScript like I’m five.”**  
-The AI gave me a metaphor that I later used to help explain the concept in a peer programming session. It was a great tool for improving my communication and teaching skills.
+I wanted to help a classmate understand destructuring but struggled to explain it simply. So I asked:
+“Explain destructuring in JavaScript like I’m five.”
+The AI gave a metaphor using food ingredients, which I rephrased and used in a peer study session. This made the concept more accessible and fun to explain.
 
 ---
 
 ## Coding Example
 
-When I needed a quick scaffold, I asked:  
-**“Write a React component that toggles text visibility with a button.”**  
-ChatGPT returned a working function that I modified and adapted into my own code. It saved time and gave me a solid structure to build from.
+While building an interactive UI, I needed a toggle component. I asked:
+“Write a React component that toggles text visibility with a button.”
+The response gave me a simple example using useState, which I then customized for our specific UI. It sped up my prototyping and gave me a reusable structure.
 
 ---
 
 ## Explaining Code
 
-When working on a bug involving `useEffect`, I pasted the component into ChatGPT and asked:  
-**“Explain what this React code is doing step-by-step.”**  
-It walked through the dependency array logic and clarified how state changes triggered re-renders. That clarity helped both me and my teammate resolve the issue.
+A teammate was stuck on a useEffect bug. I copied the code into ChatGPT and asked:
+“Explain what this React code is doing step-by-step.”
+The AI broke it down line by line, helping us understand the dependency array and cleanup function. It turned what felt like a vague bug into something concrete and solvable.
 
 ---
 
 ## Writing Code
 
-Throughout the semester, I used AI to write boilerplate React code faster. For example, I’d ask:  
-**“Write a form in React that uses state to track input changes.”**  
-These examples gave me a clear starting point that I could then modify for project-specific requirements.
+For repetitive components like forms, I asked:
+“Write a form in React with controlled inputs for name and email.”
+ChatGPT returned a clean base with state hooks and handlers. I edited it to match our design, which saved me time and reduced the chance of wiring errors.
 
 ---
 
 ## Documenting Code
 
-For our final project, I wanted better code comments. I asked:  
-**“How do I write a good JSDoc comment for a React function?”**  
-The structured output helped me write cleaner documentation that teammates could easily follow.
+To make our codebase easier to read for teammates, I asked:
+“How do I write a good JSDoc comment for a React function?”
+The AI gave me a solid template including parameter descriptions and return values. I adapted this for our functions, making our documentation more consistent and readable.
 
 ---
 
 ## Quality Assurance
 
-When ESLint threw the error:  
-**“React must be in scope when using JSX,”**  
-I asked ChatGPT how to fix it. It explained that this issue was common in older versions of React and how the JSX transform changed in newer setups. This not only fixed the issue but taught me something about version differences I hadn’t known.
+When I got an ESLint error saying:
+“‘React’ must be in scope when using JSX,”
+I asked ChatGPT why. It explained that older versions of React required the import even if JSX was used alone, while newer setups (like ours) could use JSX without it thanks to updated Babel config. I resolved the issue and learned something new about how JSX is compiled.
 
 ---
 
 ## Final Thoughts
 
-AI wasn’t a shortcut—it was a support system. It helped me experiment, debug, and most importantly, keep learning when I was stuck. The trick was using it *after* I tried solving the problem on my own, as a way to reinforce or clarify what I already half-understood.
+AI wasn’t a crutch—it was a learning accelerator. It helped me debug smarter, write cleaner, and understand deeper. Whether I was cleaning up code, fixing layout issues, or explaining concepts to others, AI gave me the confidence and clarity to move forward.
 
-Like a good coach, it pushed me just enough so that I could run the last stretch on my own.
+More than anything, it reminded me that asking the right questions is just as important as finding the right answers. When I used AI thoughtfully, I didn’t just write better code—I became a better problem-solver.
 
 ---

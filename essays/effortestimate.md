@@ -11,6 +11,9 @@ labels:
   - Effort Tracking
 ---
 ## Estimating the Unknown: Time, Tracking, and Teamwork
+<center>
+  <img src="../img/effortestimate(1).jpg" alt="Frustrated Developer" width="700" style="height: auto;" />
+</center>
 
 Picture this: you're gearing up to fix a bug or build a new feature. You think, _“Yeah, this should take maybe two hours max.”_  
 Fast forward five hours, two VSCode crashes, a full Wakatime session, and three snacks later… you’re still fine-tuning that one flexbox alignment or refactoring a database query you thought you understood.
@@ -37,7 +40,9 @@ Estimates also helped us prioritize. If something looked small on paper, we’d 
 ---
 
 ## Why Tracking Our Time Mattered
-
+<center>
+  <img src="../img/effortestimate(2).jpg" alt="Time Management Gauge" width="600" style="height: auto;" />
+</center>
 Now here’s where things got interesting. Actually tracking our coding time—using tools like Wakatime, Code Time, or a simple stopwatch—turned our assumptions into data.
 
 Suddenly, we weren’t just saying _“That felt like a lot of work.”_ We could _prove_ it.  

@@ -74,9 +74,10 @@ The AI explained it in beginner-friendly language and provided a simple componen
 
 ## Answering a Question in Class or in Discord
 
-Before answering a question in the class Discord about rendering lists in React, I double-checked my understanding by asking:
-“Why are keys important in React list rendering?”
-ChatGPT explained how keys help React track changes in arrays efficiently. This reinforced what I’d learned in class and helped me give a more confident, accurate answer.
+I wanted to help a classmate understand destructuring but struggled to explain it simply. So I asked:
+“Explain destructuring in JavaScript like I’m five.”
+The AI gave a metaphor using food ingredients, which I rephrased and used in a peer study session. This made the concept more accessible and fun to explain.
+
 ---
 
 ## Asking or Answering a Smart-Question

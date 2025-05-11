@@ -24,9 +24,9 @@ But AI wasn’t perfect. It hallucinated syntax sometimes or misunderstood conte
 
 ## Experience WODs
 
-I avoided using AI during live practice WODs to stay in the mindset of a real coding interview or timed challenge. However, afterward, I used ChatGPT to reinforce areas I struggled with. For example, after a grid layout challenge, I asked:
-“How do Bootstrap’s column breakpoints work for responsive layouts?”
-The response clarified how classes like col-sm-12 and col-md-6 adapt to different screen sizes, which helped solidify the way Bootstrap’s grid system works.
+In one Experience WOD focused on layout using Bootstrap, I hit a roadblock trying to get items centered on the page. I wasn’t sure how spacing classes like mx-auto or px-3 actually worked. So I asked:
+“What does mx-auto and px-3 do in Bootstrap?”
+The AI’s breakdown helped me understand that mx-auto centers elements horizontally, and px-3 applies horizontal padding. While this didn’t directly solve the WOD, it helped me visualize what each class was doing and gave me the confidence to tweak layout utilities until I reached the correct structure.
 
 ## In-class Practice WODs
 

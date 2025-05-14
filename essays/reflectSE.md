@@ -16,7 +16,7 @@ At first glance, this class seemed like a deep dive into web development—tools
 ---
 
 ## Why Coding Standards Matter
-<img src="./reflectSE(1).png" alt="Modern organized office with desks and computers" width="800"/>
+<img src="img/reflectSE(1).png" alt="Modern organized office with desks and computers" width="800"/>
 Before this course, my coding habits were messy but functional. I could write code that *worked*, but returning to it after a break was like trying to read notes written in a foreign language. It wasn’t until I adopted proper coding standards that I saw how transformative structure can be. Clean code isn't just easier to read—it’s easier to debug, easier to expand, and, most importantly, easier for others to work with. I learned that formatting, naming conventions, and consistent logic aren’t just for aesthetics—they’re about respect for your future self and your collaborators.
 
 Whether it was sticking to a common structure across files or using meaningful variable names, coding standards brought a kind of mental rhythm to our projects. It’s like cleaning up your workspace—you feel more focused, more capable, and less overwhelmed.
@@ -44,7 +44,7 @@ In team projects, keeping functions pure and predictable helped us avoid bugs an
 ---
 
 ## Development Environments: Your Tools Shape Your Work
-<img src="./reflectSE(2).png" alt="Git branching example: master, your work, and someone else's work" width="600"/>
+<img src="img/reflectSE(2).png" alt="Git branching example: master, your work, and someone else's work" width="600"/>
 
 Tools like **Visual Studio Code**, **GitHub**, **Prettier**, and **ESLint** transformed the way I worked. These aren’t just conveniences—they’re part of the workflow. They help catch errors early, keep code visually consistent, and streamline collaboration.
 

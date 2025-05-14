@@ -13,7 +13,7 @@ labels:
   - Prisma ORM
   - Supabase
   - Issue-Driven Project Management
-summary: "Created a DNS server that communicated between IP Addresses using domain names which allows for downloading and uploading files from different servers."
+summary: "Created a full-stack food discovery web application that allows students to get hand-picked selections of food around the University of Hawaii at Manoa"
 ---
 # Campus Cravings
 
@@ -37,4 +37,8 @@ From Campus Cravings, I gained hands-on experience building a fully deployed, sc
 
 ## 🔗 Project Links
 - **Live Site**: [Campus Cravings](https://manoa-munchies-nextjs.vercel.app/)
-- **GitHub Repository**: [github.com/eibanezUH/Manoa-Munchies-Nextjs](https://github.com/eibanezUH/Manoa-Munchies-Nextjs)
+- **GitHub Repository**: [View our Repository](https://github.com/eibanezUH/Manoa-Munchies-Nextjs)
+
+## 📘 Project Documentation
+To view our development progress, planning, and documentation throughout the Campus Cravings project, visit our GitHub organization page:  
+🔗 [Github Organization Page](https://live-laugh-lockheed-martin.github.io/)

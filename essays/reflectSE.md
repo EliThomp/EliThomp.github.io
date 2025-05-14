@@ -1,6 +1,15 @@
-
-
-# Beyond the Browser: What Software Engineering Really Taught Me
+---
+layout: essay
+type: essay
+title: "Beyond the Browser: What Software Engineering Really Taught Me"
+# All dates must be YYYY-MM-DD format!
+date: 2025-05-13
+published: true
+labels:
+  - Software Engineering
+  - Reflection
+  - Learning
+---
 
 At first glance, this class seemed like a deep dive into web development—tools like Next.js, Tailwind, PostgreSQL, and Bootstrap all pointed in that direction. But as the semester progressed, it became clear that the real takeaway wasn’t just how to build a website—it was how to *think* like a software engineer. Through this course, I’ve gained a new appreciation for the patterns, principles, and ethics that guide how software is designed, structured, and maintained. Some of the most lasting lessons came from learning about coding standards, design patterns, functional programming, user interface frameworks, development environments, and the ethical responsibilities of writing software.
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/campuscravings(1).png
+image: ../img/campuscravings(2).png
 title: "Campus Cravings"
 date: 2025-05-08
 published: true
